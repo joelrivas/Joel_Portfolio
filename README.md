@@ -8,4 +8,4 @@ Data Science Portfolio
 * Optimized Linear, Lasso and Random Forest Regressor using GridSearchCV tor each the best model.
 * Built a client facing API using Flask
 
-![](https://github.com/joelrivas/Joel_Portfolio/blob/main/images/positions_by_state.png)
+![](/images/positions_by_state.png)
